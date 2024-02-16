@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Kauã Gustavo
+-Profissão: Aluno EBAC
+-Cidade: Cerquilho
+-O que faz nas horas vaga: Jogo Bola
+-Feedback sobre o curso Qualidade de Software: Otimo e Excelente
+-Feedback sobre a plataforma de estudo da EBAC: Muito bom e funcional, nota 10!!!!!
 
 Obrigado!!!
 
